@@ -1,6 +1,6 @@
 public class BubbleShort{
     public static void bubbleshort(int []arr){
-        for(int i=0;i<arr.length-1;i++){ // arr.length-1 = no of pass(5-1=4)means tho loop runs 4 time to arranges the num
+        for(int i=0;i<arr.length-1;i++){ // arr.length-1 = no of pass(5-1=4)means the loop runs 4 time to arranges the num
             for(int j=0;j<arr.length-1-i;j++){
                 if(arr[j]>arr[j+1]){
                     int temp = arr[j];
