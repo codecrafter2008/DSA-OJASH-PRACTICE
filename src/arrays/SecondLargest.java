@@ -1,3 +1,5 @@
+package arrays;
+
 public class SecondLargest {
 
     public static int findLargest(int[] arr) {

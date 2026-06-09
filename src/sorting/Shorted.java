@@ -1,3 +1,5 @@
+package sorting;
+
 public class Shorted {
 
     public static boolean isSorted(int[] arr) {

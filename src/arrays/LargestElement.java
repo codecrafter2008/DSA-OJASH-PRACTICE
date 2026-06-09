@@ -1,3 +1,5 @@
+package arrays;
+
 public class LargestElement {
 
     // Method to find largest element

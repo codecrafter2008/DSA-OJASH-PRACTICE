@@ -1,3 +1,5 @@
+package arrays;
+
 public class DuplicateInShorted {
 
     public static void kishu(int[] arr) {
